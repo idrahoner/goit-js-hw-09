@@ -16,3 +16,10 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.timer-button {
+  width: 200px;
+  height: 100px;
+  font-size: 24px;
+  font-family: sans-serif;
+}
